@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1603483993 source:c:\users\guilherme patez\desktop\cursos t.i\curso alura c\pim\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
